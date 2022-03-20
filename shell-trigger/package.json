@@ -1,0 +1,19 @@
+{
+    "name": "docker-shell-execute",
+    "version": "1.0.0",
+    "description": "Exec handler in node",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./index.js",
+        "dev": "npm run start"
+    },
+    "author": "",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "express": "^4.16.4",
+        "shelljs": "^0.8.4"
+    },
+    "devDependencies": {
+        "turbo": "^1.1.6"
+    }
+}

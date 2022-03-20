@@ -1,0 +1,92 @@
+[
+  {
+    "title": "scriptOne",
+    "executableName": "configureShellLibrary.sh",
+    "executablePath": "https://github.com/divopsnetwork/execPathThree.git",
+    "filename": "configureShellLibrary.sh.txt",
+    "referencePage": "43",
+    "description": "Sources functions in script into one executable file",
+    "path": "https://app.supabase.io/scripts/one",
+    "embeddedImagePath": "https://xxx.com"
+  },
+  {
+    "title": "scriptTwo",
+    "executableName": "extensionCut.sh",
+    "executablePath": "https://github.com/divopsnetwork/execPathTwo.git",
+    "filename": "extensionAwk.sh.txt",
+    "referencePage": "",
+    "description": "Sources functions in script into one executable file",
+    "path": "https://app.supabase.io/scripts/two",
+    "embeddedImagePath": "https://xxx.com"
+  },
+  {
+    "title": "scriptThree",
+    "executableName": "lockfileOn.sh",
+    "executablePath": "https://github.com/divopsnetwork/execPathThree.git",
+    "filename": "lockfileOn.sh.txt",
+    "referencePage": "",
+    "description": "executes lockfile embed functionality",
+    "path": "https://app.supabase.io/scripts/three",
+    "embeddedImagePath": "https://xxx.com"
+  },
+  {
+    "title": "scriptFour",
+    "executableName": "lockfileOff.sh",
+    "executablePath": "https://github.com/divopsnetwork/execPathFour.git",
+    "filename": "lockfileOn.sh.txt",
+    "referencePage": "",
+    "description": "executes lockfile embed functionality",
+    "path": "https://app.supabase.io/scripts/four",
+    "embeddedImagePath": "https://xxx.com"
+  },
+  {
+    "title": "scriptFive",
+    "executableName": "runtimeConfig.sh",
+    "executablePath": "https://github.com/divopsnetwork/execPathFive.git",
+    "filename": "runtimeConfig.sh.txt",
+    "referencePage": "",
+    "description": "executes lockfile embed functionality",
+    "path": "https://app.supabase.io/scripts/five",
+    "embeddedImagePath": "https://xxx.com"
+  },
+  {
+    "title": "scriptSix",
+    "executableName": "runtimeConfig.sh",
+    "executablePath": "https://github.com/divopsnetwork/execPathSix.git",
+    "filename": "enhancedCat.sh",
+    "referencePage": "102",
+    "description": "provides details about file contents. Error checking",
+    "path": "https://app.supabase.io/scripts/six",
+    "embeddedImagePath": "https://xxx.com"
+  },
+  {
+    "title": "scriptSeven",
+    "executableName": "mklocatedb.sh",
+    "executablePath": "https://github.com/divopsnetwork/execPathSeven.git",
+    "filename": "mklocatedb.sh.txt",
+    "referencePage": "102",
+    "description": "",
+    "path": "https://app.supabase.io/scripts/seven",
+    "embeddedImagePath": "https://xxx.com"
+  },
+  {
+    "title": "scriptEight",
+    "executableName": "slocate.sh",
+    "executablePath": "https://github.com/divopsnetwork/execPathEight.git",
+    "filename": "mklocatedb.sh.txt",
+    "referencePage": "127",
+    "description": "",
+    "path": "https://app.supabase.io/scripts/Eight",
+    "embeddedImagePath": "https://xxx.com"
+  },
+  {
+    "title": "scriptNine",
+    "executableName": "mkslocatedb.sh",
+    "executablePath": "https://github.com/divopsnetwork/execPathNine.git",
+    "filename": "mklocatedb.sh.txt",
+    "referencePage": "130",
+    "description": "",
+    "path": "https://app.supabase.io/scripts/Nine",
+    "embeddedImagePath": "https://xxx.com"
+  },
+]

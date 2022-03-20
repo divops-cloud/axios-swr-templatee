@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"_bundle_loader"},{"name":"./helloModule","dynamic":true,"loc":{"line":2,"column":9}}],"generated":{"js":"function e(){require(\"_bundle_loader\")(require.resolve(\"./helloModule\")).then(e=>{e.sayHi(\"hiPara\")})}document.getElementById(\"btnMessages\").addEventListener(\"click\",e);"},"hash":"11a42e53bec563b11dd5a3abdf935d86"}

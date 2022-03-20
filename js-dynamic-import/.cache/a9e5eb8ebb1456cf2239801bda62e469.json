@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"child_process","loc":{"line":1,"column":25}}],"generated":{"js":"\"use strict\";Object.defineProperty(exports,\"__esModule\",{value:!0});const{exec:e}=require(\"child_process\"),s=exports.executeCommand=((s,r,t)=>{e(s,(e,s,c)=>{e?t&&t(e.message):c?t&&t(c):r&&r(s)})});"},"hash":"c218214cd0f19a49c0d39496e0304946"}
